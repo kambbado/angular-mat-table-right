@@ -18,7 +18,7 @@ td {
 td.mat-cell.cdk-column-weight.mat-column-weight {
     text-align: right !important;
 }
-td.mat-cell.cdk-column-weight.mat-column-weight{
+th.mat-cell.cdk-column-weight.mat-column-weight{
   text-align: right !important;
 }
 
