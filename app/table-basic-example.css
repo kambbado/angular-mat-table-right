@@ -14,3 +14,14 @@ td {
 /* th, td {
   text-align: center !important;
 } */
+
+td.mat-cell.cdk-column-weight.mat-column-weight {
+    text-align: right !important;
+}
+td.mat-cell.cdk-column-weight.mat-column-weight{
+  text-align: right !important;
+}
+
+.right-cell {
+   text-align: right !important;
+}
